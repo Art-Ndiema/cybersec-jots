@@ -1,0 +1,29 @@
+ # Types of Network Attacks and Defensive Measures
+
+## 1. What Are Network Attacks?
+Actions taken by malicious actors to disrupt, damage, or gain unauthorized access to networks and systems.
+
+## 2. Types of Network Attacks
+A. Passive Attacks
+
+Eavesdropping: Intercepting data in transit.
+Example: Man-in-the-middle (MITM) attacks.
+B. Active Attacks
+
+Denial of Service (DoS): Overwhelming a server with traffic to make it unavailable.
+Distributed Denial of Service (DDoS): Same as DoS but using multiple systems.
+C. Insider Threats
+
+Malicious or negligent actions by authorized users.
+Example: Employee stealing sensitive data.
+D. Phishing
+
+Sending fake emails or messages to trick users into revealing credentials.
+E. Spoofing
+
+Pretending to be a trusted device or user.
+Examples: IP spoofing or email spoofing.
+F. Malware Attacks
+
+Infecting systems with malicious software.
+Types: Viruses, worms, ransomware, spyware.
