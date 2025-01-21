@@ -1,0 +1,9 @@
+# What is Cryptography?
+The practice of securing information by converting it into a format that only authorized parties can understand.
+
+## Goals of Cryptography
+Confidentiality: Ensuring only authorized users can access data.
+Integrity: Protecting data from being altered.
+Authentication: Verifying the identity of users or systems.
+Non-repudiation: Preventing denial of actions (e.g., sending a message).
+
